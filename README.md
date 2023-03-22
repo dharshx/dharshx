@@ -8,7 +8,7 @@
 
 ### 🔭 What I'm Up To
 
-🌐 I'm currently working on a project that involves developing a web application for data visualization and analysis using React.js, Node.js, and MySQL. It's a challenging yet exciting project that allows me to apply my skills in full-stack web development and data analytics.
+I'm currently working on a project that involves developing a web application for data visualization and analysis using React.js, Node.js, and MySQL. It's a challenging yet exciting project that allows me to apply my skills in full-stack web development and data analytics.
 
 ### 🌱 What I'm Learning
 
