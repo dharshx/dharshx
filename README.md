@@ -43,7 +43,7 @@
 <a href="https://www.leetcode.com/dharshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharshx" height="30" width="40" /></a>
    <br><br>I have a portfolio website where you can find some of my recent projects and more information about me.
 
-[Visit my portfolio website](https://isntshedharshii.wixsite.com/vdharshini-portfolio)
+[Visit my portfolio website](https://dharshinivasudevan.com)
 </p>
 </p>
 
