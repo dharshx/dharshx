@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharshini Vasudevan</h1>
 <h3 align="center">A Result-driven Software Developer</h3><br>
-<img align="right" alt="Coding" width="500" height="auto" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="350" height="auto" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 - 🔭 I’m currently working on **cloud based projects**
 
