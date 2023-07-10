@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dharshini Vasudevan</h1>
-<h3 align="center">Aspiring Software Developer</h3><br>
-<img align="right" alt="Coding" width="300" height="auto" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<h3 align="center">A Result-driven Software Developer</h3><br>
+<img align="right" alt="Coding" width="500" height="auto" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-- 🔭 I’m currently working on **my personal portfolio**
+- 🔭 I’m currently working on **cloud based projects**
 
 - 👯 I’m looking to collaborate with **people with creative project ideas**
 
@@ -17,7 +17,7 @@
 
 🫶🏻 I love creating responsive, visually appealing interfaces that enhance the user experience.
 
-💻 I'm also learning TypeScripts and mastering ReactJS. </p>
+💻 I'm also learning Typescript and mastering ReactJS. </p>
 
 <br><h2>🎓 Education</h2>
 
