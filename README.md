@@ -1,10 +1,14 @@
+
+
 <h1 align="center">Hi 👋, I'm Dharshini Vasudevan</h1>
 <h3 align="center">A Result-driven Software Developer</h3><br>
 <img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-- 🔭 I’m currently working on **cloud based projects**
+<h2>WHAT I'M UPTO🤭</h2>
 
-- 👯 I’m looking to collaborate with **people with creative project ideas**
+- 🔭 I’m currently working on **cloud based projects - AWS, AZURE, GCP, etc.**
+
+- 👯 I’m looking to collaborate with **people with creative project ideas or willing to team up for hackathons**
 
 - 📫 How to reach me **vasudevan.dharsh@gmail.com**
   
@@ -17,7 +21,7 @@
 
 🫶🏻 I love creating responsive, visually appealing interfaces that enhance the user experience.
 
-💻 I'm also learning Typescript and mastering ReactJS. </p>
+💻 I'm also learning Typescript and mastering AWS. </p>
 
 <br><h2>🎓 Education</h2>
 
