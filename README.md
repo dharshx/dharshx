@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dharshini Vasudevan</h1>
-<h3 align="center">A Result-driven Software Developer</h3><br>
+<h3 align="center">A Result-driven Software Developer</h3>
 <img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <h2>WHAT I'M UPTO🤭</h2>
