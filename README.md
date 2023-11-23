@@ -12,12 +12,12 @@
 
 **Fun Facts**😄
 
-  📷 A passionate photographer. Follow my journey on Instagram: [@lensofdharsh](https://www.instagram.com/lensofdharsh/)
+  📷 A passionate photographer. Follow my journey on Instagram: [@lensofdharsh](https://www.instagram.com/lensofdharsh/).<br>
   👟 A dedicated sneaker-head.
 
 <h2>🌱 What I'm Learning </h2>
 
-  💁 Continuously exploring cutting-edge technologies in Cloud Computing to stay ahead in the game.
+  💁 Continuously exploring cutting-edge technologies in Cloud Computing to stay ahead in the game.<br>
   🎨 Particularly drawn to Front-end Development, crafting visually stunning and responsive interfaces.
 
 <h2>🎓 Education</h2>
