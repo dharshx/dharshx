@@ -1,17 +1,10 @@
 <h1 align="center">Hi there! 👋 I'm Dharshini Vasudevan</h1>
 <h3 align="center"> Result-driven Software Developer | DevOps Enthusiast </h3>
 
-## What, Why, How? 🚀
-
 **What am I doing?**
 
-- 🔭 Currently excelling as a **DevOps Engineer Intern** at a Cloud-Consulting Startup.
-
-**What I'm looking for and why I'm looking?**
-
-- 👯 Actively seeking a **Full-time Software/DevOps Engineer position** in the US.
-- 📅 Internship concludes on December 31, 2023.
-- 🚀 Fueled by passion, aiming to make impactful contributions in the Software domain.
+- 🔭 Currently wroking as a **DevOps Engineer Intern** at a Cloud-Consulting Startup.
+- 👯 Actively seeking a **Full-time Software Developer/Engineer** in the US.
 
 **How to reach me?**
 
@@ -44,6 +37,10 @@
 - **GitHub:** [dharshx](https://github.com/dharshx)
 - **LinkedIn:** [dharshini-vasudevan](https://www.linkedin.com/in/dharshini-vasudevan/)
 - **Portfolio:** [Visit my portfolio website](https://dharshinivasudevan.com)
+
+I'm excited about coding and always open to new opportunities and collaborations. 😁
+
+Feel free to connect and explore my coding journey with me! 😊
 
 <br><h3> 👩🏻‍💻 Languages and Tools:</h3>
 
