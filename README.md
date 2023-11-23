@@ -15,24 +15,24 @@
 - 📷 A passionate photographer. Follow my journey on Instagram: [@lensofdharsh](https://www.instagram.com/lensofdharsh/)
 - 👟 A dedicated sneaker-head.
 
-<br><h2>🌱 **What I'm Learning**</h2>
+<h2>🌱 **What I'm Learning**</h2>
 
 - 💁 Continuously exploring cutting-edge technologies in Cloud Computing to stay ahead in the game.
 - 🎨 Particularly drawn to Front-end Development, crafting visually stunning and responsive interfaces.
 
-<br><h2>🎓 Education</h2>
+<h2>🎓 Education</h2>
 
 - **M.S. in Information Systems**, University of Texas at Arlington, May 2023
 - **Bachelors in Computer Applications**, University of Madras, May 2021
 
-<br><h2>💼 Work Experience</h2>
+<h2>💼 Work Experience</h2>
 
 - **DevOps Engineer Intern, R2M2(Client: KornFerry)**, Aug 2023 - Present
 - **Graduate Teaching Assistant, University of Texas at Arlington**, Jan 2022 – Jan 2023
 - **Application Developer Intern, Allied Pilots Association**, June 2022 – Aug 2022
 - **Full Stack Web Developer Intern, LevelUp Learning**, July 2020 – Nov 2020
 
-<br><h2>Connect with Me 🙋</h2>
+<h2>Connect with Me 🙋</h2>
 
 - **GitHub:** [dharshx](https://github.com/dharshx)
 - **LinkedIn:** [dharshini-vasudevan](https://www.linkedin.com/in/dharshini-vasudevan/)
