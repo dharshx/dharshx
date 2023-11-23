@@ -1,16 +1,16 @@
 <h1 align="center">Hi there! 👋 I'm Dharshini Vasudevan</h1>
-<h3 align="center"> Result-driven Software Developer | DevOps Enthusiast </h3>
+<h3 align="center">Result-driven Software Developer | DevOps Enthusiast </h3>
 
-**What am I doing?**
+<h2>🤔 What am I doing?</h2>
 
 - 🔭 Currently working as a **DevOps Engineer Intern** at a Cloud-Consulting Startup.
 - 👯 Actively seeking a **Full-time Software Developer/Engineer** in the US.
 
-**How to reach me?**
+<h2>💌 How to reach me?</h2>
 
-- 📫 **Email:** vasudevan.dharsh@gmail.com
+📫 **Email:** vasudevan.dharsh@gmail.com
 
-**Fun Facts**😄
+<h2>🫢 Fun Facts about me</h2>
 
   📷 A passionate photographer. Follow my journey on Instagram: [@lensofdharsh](https://www.instagram.com/lensofdharsh/)<br>
   👟 A dedicated sneaker-head.
@@ -32,7 +32,7 @@
 - **Application Developer Intern, Allied Pilots Association**, June 2022 – Aug 2022
 - **Full Stack Web Developer Intern, LevelUp Learning**, July 2020 – Nov 2020
 
-<h2>Connect with Me 🙋</h2>
+<h2>🙋🏻‍♀️ Connect with Me</h2>
 
 - **GitHub:** [dharshx](https://github.com/dharshx)
 - **LinkedIn:** [dharshini-vasudevan](https://www.linkedin.com/in/dharshini-vasudevan/)
