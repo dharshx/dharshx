@@ -12,7 +12,7 @@
 
 **Fun Facts**😄
 
-  📷 A passionate photographer. Follow my journey on Instagram: [@lensofdharsh](https://www.instagram.com/lensofdharsh/).<br>
+  📷 A passionate photographer. Follow my journey on Instagram: [@lensofdharsh](https://www.instagram.com/lensofdharsh/)<br>
   👟 A dedicated sneaker-head.
 
 <h2>🌱 What I'm Learning </h2>
