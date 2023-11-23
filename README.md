@@ -10,12 +10,12 @@
 
 - 📫 **Email:** vasudevan.dharsh@gmail.com
 
-### Fun Facts 😄
+**Fun Facts😄**
 
 - 📷 A passionate photographer. Follow my journey on Instagram: [@lensofdharsh](https://www.instagram.com/lensofdharsh/)
 - 👟 A dedicated sneaker-head.
 
-<h2>🌱 **What I'm Learning**</h2>
+<h2>🌱 What I'm Learning </h2>
 
 - 💁 Continuously exploring cutting-edge technologies in Cloud Computing to stay ahead in the game.
 - 🎨 Particularly drawn to Front-end Development, crafting visually stunning and responsive interfaces.
