@@ -26,7 +26,6 @@
 
 <h2>💼 Work Experience</h2>
 
-- **DevOps Engineer Intern, R2M2(Client: KornFerry)**, Aug 2023 - Present
 - **Graduate Teaching Assistant, University of Texas at Arlington**, Jan 2022 – Jan 2023
 - **Application Developer Intern, Allied Pilots Association**, June 2022 – Aug 2022
 - **Full Stack Web Developer Intern, LevelUp Learning**, July 2020 – Nov 2020
