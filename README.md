@@ -3,7 +3,6 @@
 
 <h2>🤔 What am I doing?</h2>
 
-- 🔭 Currently working as a **DevOps Engineer Intern** at a Cloud-Consulting Startup.
 - 👯 Actively seeking a **Full-time Software Developer/Engineer** in the US.
 
 <h2>💌 How to reach me?</h2>
