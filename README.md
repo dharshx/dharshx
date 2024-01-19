@@ -19,17 +19,7 @@
   💁 Continuously exploring cutting-edge technologies in Cloud Computing to stay ahead in the game.<br>
   🎨 Particularly drawn to Front-end Development, crafting visually stunning and responsive interfaces.
 
-<h2>🎓 Education</h2>
-
-- **M.S. in Information Systems**, University of Texas at Arlington, May 2023
-- **Bachelors in Computer Applications**, University of Madras, May 2021
-
-<h2>💼 Work Experience</h2>
-
-- **Graduate Teaching Assistant, University of Texas at Arlington**, Jan 2022 – Jan 2023
-- **Application Developer Intern, Allied Pilots Association**, June 2022 – Aug 2022
-- **Full Stack Web Developer Intern, LevelUp Learning**, July 2020 – Nov 2020
-
+  
 <h2>🙋🏻‍♀️ Connect with Me</h2>
 
 - **GitHub:** [dharshx](https://github.com/dharshx)
