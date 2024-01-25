@@ -1,20 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Dharshini Vasudevan</h1>
 <h3 align="center">Result-driven Software Developer | DevOps Enthusiast </h3>
 
-<h2>🤔 What am I doing?</h2>
-
-- 👩🏻‍💻 DevOps/Software Engineer @R2M2
-- 👯 Actively seeking a **Full-time Software Developer/Front-end Developer roles** within the US.
-
-<h2>💌 How to reach me?</h2>
-
-📫 **Email:** vasudevan.dharsh@gmail.com
-
-<h2>🫢 Fun Facts about me</h2>
-
-  📷 A passionate photographer. Follow my journey on Instagram: [@lensofdharsh](https://www.instagram.com/lensofdharsh/)<br>
-  👟 A dedicated sneaker-head.
-
 <h2>🌱 What I'm Learning </h2>
 
   💁 Continuously exploring cutting-edge technologies in Cloud Computing to stay ahead in the game.<br>
