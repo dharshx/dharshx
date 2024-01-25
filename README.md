@@ -43,10 +43,10 @@
 </p>
 
 > ### 🙋🏻‍♀️ connect with me:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharshx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshini-vasudevan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://dharshinivasudevan.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/dharshx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dharshini-vasudevan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=chrome)](https://dharshinivasudevan.com)
 <br> <br> 
 <p align="center">
   <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="450">
