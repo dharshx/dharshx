@@ -3,9 +3,11 @@
 
 <h2>🙋🏻‍♀️ Connect with Me</h2>
 
-- **GitHub:** [dharshx](https://github.com/dharshx)
-- **LinkedIn:** [dharshini-vasudevan](https://www.linkedin.com/in/dharshini-vasudevan/)
-- **Portfolio:** [Visit my portfolio website](https://dharshinivasudevan.com)
+# Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/dharshx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dharshini-vasudevan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=chrome)](https://dharshinivasudevan.com)
 
 I'm excited about coding and always open to new opportunities and collaborations. 😁
 
