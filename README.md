@@ -6,6 +6,8 @@
 - 🎯 what i am upto: currently learning and working with **Google Cloud** services
 - 📸 what i am fond of: photography, dance, travel and wildlife
 - 🫶🏻 bonus: a big office fan 📺 and an avid sneaker-head 👟
+<br>
+
 
 > ### 👾 what i use daily:
 
@@ -41,6 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+<br>
 
 > ### 🙋🏻‍♀️ connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharshx)
