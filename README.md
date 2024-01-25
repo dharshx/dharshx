@@ -1,11 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Dharshini Vasudevan</h1>
 <h3 align="center">Result-driven Software Developer | DevOps Enthusiast </h3>
 
-<h2>🌱 What I'm Learning </h2>
-
-  💁 Continuously exploring cutting-edge technologies in Cloud Computing to stay ahead in the game.<br>
-  🎨 Particularly drawn to Front-end Development, crafting visually stunning and responsive interfaces.
-  
 <h2>🙋🏻‍♀️ Connect with Me</h2>
 
 - **GitHub:** [dharshx](https://github.com/dharshx)
