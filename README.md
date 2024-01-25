@@ -7,12 +7,6 @@
 - 📸 what i am fond of: photography, dance, travel and wildlife
 - 🫶🏻 bonus: a big office fan 📺 and an avid sneaker-head 👟
 
-> ### 🙋🏻‍♀️ connect with me:
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/dharshx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dharshini-vasudevan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=chrome)](https://dharshinivasudevan.com)
-
 > ### 👾 what i use daily:
 
 <p align="left">
@@ -47,6 +41,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+
+> ### 🙋🏻‍♀️ connect with me:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/dharshx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dharshini-vasudevan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=chrome)](https://dharshinivasudevan.com)
 <br> <br> 
 <p align="center">
   <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="450">
