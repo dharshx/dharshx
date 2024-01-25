@@ -1,17 +1,19 @@
 <h1 align="center">Hi there! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Dharshini Vasudevan</h1>
-<h3 align="center"> Result-driven Software Developer | DevOps & Cloud Enthusiast </h3>
 
-<h3>🙋🏻‍♀️ Connect with Me</h3>
+> ### 🌎 a little bit about me:
+- 👩🏻‍💻 work: **DevOps Engineer**
+- 🎙️ i host a podcast: **What's Next?** Podcast(available on all podcast platforms, give it a listen!👀)
+- 🎯 what i am upto: currently learning and working with **Google Cloud** services
+- 📸 what i am fond of: photography, dance, travel and wildlife
+- 🫶🏻 bonus: a big office fan 📺 and an avid sneaker-head 👟
+
+> ### 🙋🏻‍♀️ connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/dharshx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dharshini-vasudevan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=chrome)](https://dharshinivasudevan.com)
 
-I'm excited about coding and always open to new opportunities and collaborations. 😁
-
-Feel free to connect and explore my coding journey with me! 😊
-
-<h3> 👩🏻‍💻 Languages and Tools:</h3>
+> ### 👾 what i use daily:
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -45,10 +47,9 @@ Feel free to connect and explore my coding journey with me! 😊
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-<br> <br> <br> 
-
+<br> <br> 
 <p align="center">
-  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="650">
+  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="450">
 </p>
 
 
