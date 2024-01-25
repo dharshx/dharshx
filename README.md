@@ -6,6 +6,8 @@
 - 🎯 what i am upto: currently learning and working with **Google Cloud** services
 - 📸 what i am fond of: photography, dance, travel and wildlife
 - 🫢 bonus: a big office fan 📺 and an avid sneaker-head 👟
+  
+<br>
 
 > ### 👾 what i use daily:
 
@@ -42,10 +44,14 @@
   </a>
 </p>
 
+<br>
+
 > ### 🙋🏻‍♀️ connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharshx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshini-vasudevan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://dharshinivasudevan.com)
+
+<br> 
 
 <p align="left">
   <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="450">
