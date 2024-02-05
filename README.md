@@ -4,7 +4,7 @@
 - 👩🏻‍💻 work: **Software Engineer**
 - 🫶🏻 highly passionate about: **Front-end technologies** and **UI/UX designs**
 - 🎙️ i host a podcast: **What's Next?** Podcast(available on all podcast platforms, give it a listen!👀)
-- 🙋🏻‍♀️ what i am upto: currently learning and working with **Google Cloud** services and **TypeScript**
+- 🙋🏻‍♀️ what i am upto: currently learning and working with **Google Cloud** services
 - 📸 what i am fond of: photography, dance, travel and wildlife
 - 🫢 bonus: a big office fan 📺 and an avid sneaker-head 👟
   
