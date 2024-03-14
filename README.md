@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Dharshini Vasudevan</h1>
 
 > ### 🌎 a little bit about me:
-- 👩🏻‍💻 work: **Software Engineer**
-- 🫶🏻 highly passionate about: **Front-end technologies** and **UI/UX designs**
+- 👩🏻‍💻 i'm a **Software Engineer**
+- 🫶🏻 highly passionate about: **Front-end technologies** and **Cloud-technologies**
+- 🙋🏻‍♀️ what i am upto: currently learning and working with **Google Cloud** services (i'm a Google Certified Professional Cloud Developer!)
 - 🎙️ i host a podcast: **What's Next?** Podcast(available on all podcast platforms, give it a listen!👀)
-- 🙋🏻‍♀️ what i am upto: currently learning and working with **Google Cloud** services
 - 📸 what i am fond of: photography, dance, travel and wildlife
 - 🫢 bonus: a big office fan 📺 and an avid sneaker-head 👟
   
