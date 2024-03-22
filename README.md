@@ -8,6 +8,7 @@
 - 📸 what i am fond of: photography, dance, travel and wildlife
 
 <br>
+
 > ### 👾 what i use daily:
 
 <p align="left">
