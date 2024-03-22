@@ -6,8 +6,7 @@
 - 🙋🏻‍♀️ what i am upto: currently learning & working with **Cloud** services - 🤫**I'm a Google Certified Professional Cloud Developer**
 - 🎙️ i host a podcast: **What's Next?** Podcast(available on all podcast platforms, give it a listen!👀)
 - 📸 what i am fond of: photography, dance, travel and wildlife
-- 🫢 bonus: a big office fan 📺 and an avid sneaker-head 👟
-  
+
 <br>
 
 > ### 👾 what i use daily:
