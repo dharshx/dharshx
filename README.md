@@ -9,7 +9,7 @@
 
 <br>
 
-> ### 👾 what i use daily:
+> ### 👾 my everyday tech stack:
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
